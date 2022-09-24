@@ -1,0 +1,10 @@
+.slick-prev:before, .slick-next:before{
+    color: gray !important;
+    font-size: 30px;
+}
+
+.width-item{
+    width: 100% !important;
+    margin-left: 48px;
+    margin-top: 50px;
+}

@@ -1,0 +1,10 @@
+### register
+POST http://localhost:3000/api/auth/login
+Content-Type: application/json
+Accept: application/json 
+
+{
+    "userName":"sanh1234e",
+    "password":"Sanh123456@"
+   
+}
